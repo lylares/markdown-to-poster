@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "markdown to poster image",
   description: "Render Markdown into a beautiful poster image, with support for copying as an image. Md to Poster/Image/Quote/Card/Instagram/Twitter/Facebook...",
   keywords: ["poster image", "海报", "卡片", "图片", "markdown", "ai", "markdown to poster", "markdown to image", "markdown to card", "markdown to quote", "instagram", "twitter", "facebook"],
-  creator: "gcui.ai",
+  creator: "www.lylares.com",
 };
 
 export default function RootLayout({
