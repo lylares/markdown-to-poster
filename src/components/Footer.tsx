@@ -15,8 +15,8 @@ export default function Footer() {
       <p
         className="px-6 py-3 rounded-full flex justify-center items-center gap-2"
       >
-        <span>© 2024</span>
-        <Link href="https://github.com/gcui-art/markdown-to-image/">gcui-art/markdown-to-image</Link>
+        <span>© 2025</span>
+        <Link href="https://www.lylares.com">lylares</Link>
       </p>
     </footer>
   )
